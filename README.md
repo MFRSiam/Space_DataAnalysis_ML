@@ -26,7 +26,21 @@ Here We can see the most complex systems , sy_snum = number of stars in that sys
 
 In those complex systems i visualized the number of planets. We can see here that HD 110067 System is one of the most complex systems out there with 3 stars and 6 planets.
 
-![](assets/2024-10-16-03-13-54-image.png)
+## Exoplanet Discovery Methods
+
+| Discovery Method              | Count  |
+| ----------------------------- | ------ |
+| Transit                       | 328381 |
+| Radial Velocity               | 25632  |
+| Microlensing                  | 6713   |
+| Imaging                       | 1474   |
+| Transit Timing Variations     | 1405   |
+| Eclipse Timing Variations     | 246    |
+| Orbital Brightness Modulation | 217    |
+| Pulsar Timing                 | 138    |
+| Astrometry                    | 39     |
+| Pulsation Timing Variations   | 210    |
+| Disk Kinematics               | 1      |
 
 The most common method for discovering exoplanets is the transit method. This involves observing a star and detecting periodic dips in its brightness caused by a planet passing in front of it, blocking some of the star's light.
 
