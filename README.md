@@ -24,7 +24,7 @@ Here We can see the most complex systems , sy_snum = number of stars in that sys
 
 ![](assets/2024-10-16-03-12-16-image.png)
 
-In those complex systems i visualized the number of planets. We can see here that PH1 System is one of the most complex systems out there with 3 stars and 6 planets.
+In those complex systems i visualized the number of planets. We can see here that HD 110067 System is one of the most complex systems out there with 3 stars and 6 planets.
 
 ![](assets/2024-10-16-03-13-54-image.png)
 
